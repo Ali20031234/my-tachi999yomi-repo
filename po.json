@@ -1,0 +1,16 @@
+{
+  "name": "مستودع HentaiSlayer",
+  "author": "Ali20031234",
+  "version": 1,
+  "sources": [
+    {
+      "name": "HentaiSlayer",
+      "id": "hentaislayer",
+      "lang": "ar",
+      "baseUrl": "https://hentaislayer.net",
+      "latestVersion": 1,
+      "sourceUrl": "https://github.com/Ali20031234/my-tachi999yomi-repo",
+      "icon": "icon.png"
+    }
+  ]
+}
